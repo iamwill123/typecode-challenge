@@ -1,7 +1,9 @@
 # Type/Code Development Exercise
 
 Challenge accepted by William Pei Yuan
+
 Live demo here: https://iamwill123.github.io/typecode-challenge/
+
 To get started:
 - Clone this repo
 - `npm install` to install npm packages.
